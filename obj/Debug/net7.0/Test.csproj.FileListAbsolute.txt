@@ -1,0 +1,15 @@
+/home/roman/Desktop/test/csharp/Test/bin/Debug/net7.0/Test
+/home/roman/Desktop/test/csharp/Test/bin/Debug/net7.0/Test.deps.json
+/home/roman/Desktop/test/csharp/Test/bin/Debug/net7.0/Test.runtimeconfig.json
+/home/roman/Desktop/test/csharp/Test/bin/Debug/net7.0/Test.dll
+/home/roman/Desktop/test/csharp/Test/bin/Debug/net7.0/Test.pdb
+/home/roman/Desktop/test/csharp/Test/obj/Debug/net7.0/Test.csproj.AssemblyReference.cache
+/home/roman/Desktop/test/csharp/Test/obj/Debug/net7.0/Test.GeneratedMSBuildEditorConfig.editorconfig
+/home/roman/Desktop/test/csharp/Test/obj/Debug/net7.0/Test.AssemblyInfoInputs.cache
+/home/roman/Desktop/test/csharp/Test/obj/Debug/net7.0/Test.AssemblyInfo.cs
+/home/roman/Desktop/test/csharp/Test/obj/Debug/net7.0/Test.csproj.CoreCompileInputs.cache
+/home/roman/Desktop/test/csharp/Test/obj/Debug/net7.0/Test.dll
+/home/roman/Desktop/test/csharp/Test/obj/Debug/net7.0/refint/Test.dll
+/home/roman/Desktop/test/csharp/Test/obj/Debug/net7.0/Test.pdb
+/home/roman/Desktop/test/csharp/Test/obj/Debug/net7.0/Test.genruntimeconfig.cache
+/home/roman/Desktop/test/csharp/Test/obj/Debug/net7.0/ref/Test.dll
